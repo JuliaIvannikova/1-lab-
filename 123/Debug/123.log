@@ -1,0 +1,4 @@
+﻿  123.cpp
+C:\Users\79112\source\repos\123\123\123.cpp(114,29): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\79112\source\repos\123\123\123.cpp(177,21): warning C4018: <: несоответствие типов со знаком и без знака
+  123.vcxproj -> C:\Users\79112\source\repos\123\Debug\123.exe
